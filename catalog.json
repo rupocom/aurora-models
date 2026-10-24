@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "2b-nier-ag2",
+      "name": "2B Nier Automata (AG2)",
+      "model": "characters/models/nozb1/2b_nier_automata_player_model/2b_nier_player_model_ag2.vmdl",
+      "files": [
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/2b_nier_player_model_ag2.vmdl_c",
+          "bytes": 702102,
+          "sha256": "8155588469511210b329c91719a9f28e33453443776a357045a5efe388823cd8"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/arms2b_mat.vmat_c",
+          "bytes": 4000,
+          "sha256": "0eea57347591b6ce122266f6f62b44d6de0c2a6bde7b27f240ad93e85f14362d"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/arms2b_mat_png_90acb74d.vtex_c",
+          "bytes": 701116,
+          "sha256": "49be72668b76f06ca842e196c09b791983a7171f0cbaa80ab34dcef707215e90"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/arms2b_mat_vmat_g_tmetalness_b70f8f59.vtex_c",
+          "bytes": 2544,
+          "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/arms2b_normal_mat_png_f0e54546.vtex_c",
+          "bytes": 1400308,
+          "sha256": "4f65e89ec5aee61cc3740bc48457ed08678f7591c2a5775f502a7593ce4b08d1"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/face2b_mat.vmat_c",
+          "bytes": 4000,
+          "sha256": "b5f17e89657a8c71b326a298cfa61307aae679020ed4cc6e28ee55ecce49cbb4"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/face2b_mat_png_84854ff4.vtex_c",
+          "bytes": 701116,
+          "sha256": "34c8bbaad1323d12121580672c379a2c7c2bbdec5711075ffbc7d6aa317ac76d"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/face2b_mat_vmat_g_tmetalness_b70f8f59.vtex_c",
+          "bytes": 2544,
+          "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/face2b_normal_mat_png_a849ea7a.vtex_c",
+          "bytes": 1400308,
+          "sha256": "064a03ba80d4154031d66a6895414fc9e0293b0dc3cc219e068a3b8fdc514782"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/hair2b_mat.vmat_c",
+          "bytes": 4176,
+          "sha256": "fe21542e1e34ed4111dd914ba096542ab7c7667463075ee17798542bf2524540"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/hair2b_mat_png_b7764f4b.vtex_c",
+          "bytes": 1400196,
+          "sha256": "9aedae7d13f2642d8e4684a0694d208f9401e2a944a97972d9c04591058a848f"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/hair2b_mat_vmat_g_tmetalness_b70f8f59.vtex_c",
+          "bytes": 2544,
+          "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/irises_diffuse_mat.vmat_c",
+          "bytes": 4048,
+          "sha256": "eac27dd0438b26a7071a17517fd6c2f27fa321228769e0017c4d2141cf0ed918"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/irises_diffuse_mat_vmat_g_tmetalness_b70f8f59.vtex_c",
+          "bytes": 2544,
+          "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/irises_diffuse_normal_mat_png_92d634ff.vtex_c",
+          "bytes": 1400324,
+          "sha256": "c24570d89b2e301b15fabb5d11d3e6c3f99b6c569e38847549c218113688f763"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/irises_diffuse_png_a00b89dd.vtex_c",
+          "bytes": 701116,
+          "sha256": "8f1288d273fd7be5d8723f733483dd3b7b706c90c716b43615950fc5324569ba"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/legs2b_mat.vmat_c",
+          "bytes": 4000,
+          "sha256": "4b8dd606053999986840e51023cfc88ce85f8d36011736fdc8d11c7edf8016ac"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/legs2b_mat_png_8987f9bb.vtex_c",
+          "bytes": 701116,
+          "sha256": "8af1bf8caa07110a4b7cb228aae559d7f7e145e8f812986990a7879184e92bbe"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/legs2b_mat_vmat_g_tmetalness_b70f8f59.vtex_c",
+          "bytes": 2544,
+          "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/legs2b_normal_mat_png_91340264.vtex_c",
+          "bytes": 1400308,
+          "sha256": "30a560b23ebc068c0b99fd8e32012d00156522a9f6db371e0bb39bb299d3cb01"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/mouth2b_mat.vmat_c",
+          "bytes": 4000,
+          "sha256": "0b071b0ffd47c2b4dbd754a7278f556fec73d7049aefe1a186ba563f618f9595"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/mouth2b_mat_png_73a98817.vtex_c",
+          "bytes": 701116,
+          "sha256": "3683e7dfd3256c4cac241bd46c538205e34e95079ec544262101288ebf4e1a93"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/mouth2b_mat_vmat_g_tmetalness_b70f8f59.vtex_c",
+          "bytes": 2544,
+          "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/mouth2b_normal_mat_png_d6a9c12f.vtex_c",
+          "bytes": 1400308,
+          "sha256": "9c0282413d7af9b5a2d7198dc8b71b1b3b800a4a83614dfa6d0697d89ce3b5f2"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/outfit2b_all_mat.vmat_c",
+          "bytes": 4032,
+          "sha256": "31f32ebf4dfe17d2c6f324e5b6b040a2d157a01e14448e888078e1a67a6b43b0"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/outfit2b_all_mat_png_35052ee.vtex_c",
+          "bytes": 701116,
+          "sha256": "44784cc17c3ed71fb96c2f5abc0f5f998f2840758e45d8ef8186fa6bf0cde5b9"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/outfit2b_all_mat_vmat_g_tmetalness_b70f8f59.vtex_c",
+          "bytes": 2544,
+          "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/outfit2b_all_normal_mat_png_68dc9195.vtex_c",
+          "bytes": 1400324,
+          "sha256": "52b85f79943c131c972f70cce0fa57fdbff927c119f1fb451b923a12c1b01879"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/torso2b_mat.vmat_c",
+          "bytes": 4000,
+          "sha256": "996c7d3ebeb497c9e22e599942b43d1c0ece12e4fd3e4c9e4d659b05291246dc"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/torso2b_mat_png_885964d9.vtex_c",
+          "bytes": 701116,
+          "sha256": "c34ae884c4cb2fdd507b4edfca93c2b5f38baa170b60419bb5ff196f46d7372d"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/torso2b_mat_vmat_g_tmetalness_b70f8f59.vtex_c",
+          "bytes": 2544,
+          "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+        },
+        {
+          "path": "characters/models/nozb1/2b_nier_automata_player_model/materials/torso2b_normal_mat_png_5f18f14d.vtex_c",
+          "bytes": 1400308,
+          "sha256": "f207b6ed3946d84a322dc1c3aba916f219074441d97216072562622b4c584144"
+        }
+      ]
+    }
+  ]
+}
