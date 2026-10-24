@@ -1,0 +1,12 @@
+[
+  {
+    "path": "materials/aurora/sky/_build_wallhaven_g8x19q_5d4d6a7f1b70_331f9b14/panorama_png_877e1c4b.vtex_c",
+    "bytes": 1967844,
+    "sha256": "1bb08561dc85fa6f70199d5c190b7d118b6c0592db2963b54940505e02c3796b"
+  },
+  {
+    "path": "materials/aurora/sky/_build_wallhaven_g8x19q_5d4d6a7f1b70_331f9b14/sky.vmat_c",
+    "bytes": 2332,
+    "sha256": "7a20ec8e2d6c0e0b00ac16e36758f092483f3a6ad8df3e7cdec62e14114c587b"
+  }
+]

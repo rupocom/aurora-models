@@ -167,6 +167,391 @@
           "sha256": "f207b6ed3946d84a322dc1c3aba916f219074441d97216072562622b4c584144"
         }
       ]
+    },
+    {
+      "id": "aositala-workshop-ag2",
+      "name": "Aositala (AG2, untested)",
+      "model": "characters/models/kolka/2026/aositala/aositala.vmdl",
+      "files": [
+        {
+          "path": "characters/models/kolka/2026/aositala/aositala/body1_vmorf.vtex_c",
+          "bytes": 236324,
+          "sha256": "f740fddcc0f6b1fcda96c2942ec3bfb9383f5b4170bbd7761f1369094df1397a"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/aositala/body_vmorf.vtex_c",
+          "bytes": 236324,
+          "sha256": "f740fddcc0f6b1fcda96c2942ec3bfb9383f5b4170bbd7761f1369094df1397a"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/aositala/viewmodel1_vmorf.vtex_c",
+          "bytes": 236324,
+          "sha256": "f740fddcc0f6b1fcda96c2942ec3bfb9383f5b4170bbd7761f1369094df1397a"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/aositala/viewmodel_vmorf.vtex_c",
+          "bytes": 236324,
+          "sha256": "f740fddcc0f6b1fcda96c2942ec3bfb9383f5b4170bbd7761f1369094df1397a"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/aositala.vmdl_c",
+          "bytes": 1462058,
+          "sha256": "bb373c0ca26c9e323697df2a99d123f005068327f6073d6e12ced442628933cb"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/cloth.vmat_c",
+          "bytes": 4096,
+          "sha256": "c9b58ec0b59c0f9691d767de366d6fe74b93ab106ba5fdb40a5cbc3bdd60e437"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/cloth_bykva.vmat_c",
+          "bytes": 4346,
+          "sha256": "ca8790dadf78846eb772f3f4716faf0ed1d0f185b260154fd8c1574e30d832fd"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/cloth_bykva_vmat_g_tnormal_53b47c48.vtex_c",
+          "bytes": 2320,
+          "sha256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/cloth_png_50837a01.vtex_c",
+          "bytes": 701164,
+          "sha256": "7820f99e41cb666fd93d3ee22087a7a4c9469b6995e2ec31b7ee5f7a3f38ac56"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/cloth_png_d5f19a96.vtex_c",
+          "bytes": 1400276,
+          "sha256": "1d7a3b23475a3d7510ad39ece23e02d53ecabf99406810ef2ea9c88fcc45ab6b"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/cloth_self.vmat_c",
+          "bytes": 4300,
+          "sha256": "6fd128d3706cfe46a9d8916d42fac375e614de7f65aa4fe337df41f336658661"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/cloth_self_vmat_g_tnormal_53b47c48.vtex_c",
+          "bytes": 2320,
+          "sha256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/cloth_vmat_g_tmetalness_10974e8a.vtex_c",
+          "bytes": 2624,
+          "sha256": "8652672ee3315eafb38b992569613557f38c6fa789482bd3612f3aeeee76ba6a"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/cloth_vmat_g_tnormal_53b47c48.vtex_c",
+          "bytes": 2320,
+          "sha256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/hair.vmat_c",
+          "bytes": 4048,
+          "sha256": "a260c0f853a833d17e1e858ddea0af7dc2d349331b20b8f9ac6223ae63be0c0c"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/hair_png_e2b48c1.vtex_c",
+          "bytes": 701164,
+          "sha256": "0dba1b16e7092e253e343dde1f44f42a1a773b346a7525a7aed257a73a5675c1"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/hair_vmat_g_tmetalness_10974e8a.vtex_c",
+          "bytes": 2624,
+          "sha256": "8652672ee3315eafb38b992569613557f38c6fa789482bd3612f3aeeee76ba6a"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/hair_vmat_g_tnormal_53b47c48.vtex_c",
+          "bytes": 2320,
+          "sha256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/self_png_c3360188.vtex_c",
+          "bytes": 701164,
+          "sha256": "04d4313167b908781faa17d017f10f111f1e4fe54a5fbcaee3fe525e8c1a9b60"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/skin.vmat_c",
+          "bytes": 4048,
+          "sha256": "1441bc464a2873885e24a41d1f1cd222050541c89500b77413bb0d2beeaeecb4"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/skin_png_c8fb44dc.vtex_c",
+          "bytes": 701164,
+          "sha256": "c5b966738ed1743db3188266bf6b59534c79a1ec236503c0d2506ab8df19d791"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/skin_vmat_g_tmetalness_10974e8a.vtex_c",
+          "bytes": 2624,
+          "sha256": "8652672ee3315eafb38b992569613557f38c6fa789482bd3612f3aeeee76ba6a"
+        },
+        {
+          "path": "characters/models/kolka/2026/aositala/mat/skin_vmat_g_tnormal_53b47c48.vtex_c",
+          "bytes": 2320,
+          "sha256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb"
+        }
+      ],
+      "cloth_nodes": 18,
+      "runtime_verified": false,
+      "source_workshop": "3762111612"
+    },
+    {
+      "id": "megumin-workshop-ag2",
+      "name": "Megumin (AG2, untested)",
+      "model": "characters/models/kolka/2026/megumin/megumin.vmdl",
+      "files": [
+        {
+          "path": "characters/models/kolka/2026/megumin/mat/bodt.vmat_c",
+          "bytes": 4080,
+          "sha256": "7968413ca31116c245453c20e482e4ef1674021ca2202894f5eada5c7c66400b"
+        },
+        {
+          "path": "characters/models/kolka/2026/megumin/mat/bodt_vmat_g_tmetalness_10974e8a.vtex_c",
+          "bytes": 2624,
+          "sha256": "8652672ee3315eafb38b992569613557f38c6fa789482bd3612f3aeeee76ba6a"
+        },
+        {
+          "path": "characters/models/kolka/2026/megumin/mat/bodt_vmat_g_tmetalness_b70f8f59.vtex_c",
+          "bytes": 2624,
+          "sha256": "8bd58d5f6def1c4aac9d100e026e7982e26c87edaefe17ad91904fc272736470"
+        },
+        {
+          "path": "characters/models/kolka/2026/megumin/mat/bodt_vmat_g_tnormal_e0ed7158.vtex_c",
+          "bytes": 2320,
+          "sha256": "b6491eff9a7984e2b2b71e8b089d8a07c2379bb132df2e86d400d4cee54a33dd"
+        },
+        {
+          "path": "characters/models/kolka/2026/megumin/mat/body_tga_58740273.vtex_c",
+          "bytes": 1400212,
+          "sha256": "9ccbb3b7c5a3b5ed8c87081eadef6ba45c085d3fcd959fb254eede06733f2e95"
+        },
+        {
+          "path": "characters/models/kolka/2026/megumin/megumin.vmdl_c",
+          "bytes": 244662,
+          "sha256": "6bc6944c5948d1eb88c2bfbcfa564ec25fac3903473b627cf0bdb3a2914c3f3e"
+        }
+      ],
+      "cloth_nodes": 19,
+      "runtime_verified": false,
+      "source_workshop": "3762111612"
+    },
+    {
+      "id": "yidhari-workshop-ag2",
+      "name": "Yidhari (AG2, untested)",
+      "model": "characters/models/kolka/2026/yidhari/yidhari.vmdl",
+      "files": [
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/123_tga_b94aaa32.vtex_c",
+          "bytes": 7556,
+          "sha256": "c9a7290ca130a77aa6feee870c1125f05aba1805849b1562a05e0133e3651567"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/123_tga_c795eda6.vtex_c",
+          "bytes": 7556,
+          "sha256": "26dac7ee2f3257dbf2fc9e278dfbed6a3b5d1325b16d09cd983afb227c90aea2"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/2b.vmat_c",
+          "bytes": 3531,
+          "sha256": "d9817f7b5444c6b04aaddb1d4ff8faaaacb49012e3df9127351ed1349889285e"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/2b_vmat_g_tcolor_37c55b5d.vtex_c",
+          "bytes": 2272,
+          "sha256": "8a6efcecb42a595f0e01f3f326bee7aad347fe3035537945a9d9b71bceb16f57"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/2b_vmat_g_tcolor_6bb027d5.vtex_c",
+          "bytes": 2272,
+          "sha256": "8a26bfabc86f80d3d2fe99f9b8b5b79b57836e07c1041418f867711cc5dc485c"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/arm.vmat_c",
+          "bytes": 4032,
+          "sha256": "4d46cb21eca2c5bed71085eb5aa11ff50f90e856fa8143018c869ce16157cb18"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/arm_vmat_g_tmetalness_10974e8a.vtex_c",
+          "bytes": 2624,
+          "sha256": "8652672ee3315eafb38b992569613557f38c6fa789482bd3612f3aeeee76ba6a"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/arm_vmat_g_tmetalness_b70f8f59.vtex_c",
+          "bytes": 2624,
+          "sha256": "8bd58d5f6def1c4aac9d100e026e7982e26c87edaefe17ad91904fc272736470"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/arm_vmat_g_tnormal_53b47c48.vtex_c",
+          "bytes": 2320,
+          "sha256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/arms_png_b9d235b1.vtex_c",
+          "bytes": 701164,
+          "sha256": "c25fbe82693dc9aeda76159b4f230fb06d824b7bd5ab1ae6569d71ccbd87de4a"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/body.vmat_c",
+          "bytes": 4064,
+          "sha256": "4b4c6dc9f05f710a2635744ad5561b9ed03d5db97317c983e8288809b2e7f4d5"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/body_vmat_g_tmetalness_10974e8a.vtex_c",
+          "bytes": 2624,
+          "sha256": "8652672ee3315eafb38b992569613557f38c6fa789482bd3612f3aeeee76ba6a"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/body_vmat_g_tmetalness_b70f8f59.vtex_c",
+          "bytes": 2624,
+          "sha256": "8bd58d5f6def1c4aac9d100e026e7982e26c87edaefe17ad91904fc272736470"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/face.vmat_c",
+          "bytes": 4064,
+          "sha256": "218fd16d0bb4bdf9a67958f779b697534f8fcf5697a69a496c76715189320f9a"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/face_vmat_g_tmetalness_b70f8f59.vtex_c",
+          "bytes": 2624,
+          "sha256": "8bd58d5f6def1c4aac9d100e026e7982e26c87edaefe17ad91904fc272736470"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/ha.vmat_c",
+          "bytes": 4064,
+          "sha256": "cb96663b02ce9de983cc330d81f379ecf082e2970b79696562ce3c55cde1abe6"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/ha_vmat_g_tmetalness_10974e8a.vtex_c",
+          "bytes": 2624,
+          "sha256": "8652672ee3315eafb38b992569613557f38c6fa789482bd3612f3aeeee76ba6a"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/self.vmat_c",
+          "bytes": 4236,
+          "sha256": "852f1aefb4b085462745a3702398464ac0ef500afabdfa29edc76777ded5d780"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/self_vmat_g_tcolor_7ab53e0a.vtex_c",
+          "bytes": 2024,
+          "sha256": "fd570438383dbcc6fccdffd112a326d678d5024e11eb2d4c49e5a98fd13a0d9c"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/self_vmat_g_tselfillummask_ff155607.vtex_c",
+          "bytes": 2024,
+          "sha256": "aa80eeabfddb62997c15e6c26199c4b4a83760d15a63209a71be5baf6ea6ebb1"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/tail.vmat_c",
+          "bytes": 4064,
+          "sha256": "aca898d6283c1c02d8f77da9062a2425fb563b03eb65179ab85a6695ccb09f54"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/tail_vmat_g_tmetalness_10974e8a.vtex_c",
+          "bytes": 2624,
+          "sha256": "8652672ee3315eafb38b992569613557f38c6fa789482bd3612f3aeeee76ba6a"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/yidhari_body_map1_d_tga_7b9ccd8a.vtex_c",
+          "bytes": 2798316,
+          "sha256": "9dd9708beb9207afff4c29426325c8cf22140254e2841978fcc72d87d4360b8f"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/yidhari_body_map1_n_tga_7cb23b18.vtex_c",
+          "bytes": 1400308,
+          "sha256": "314e0029ad90666157ebf0aa30a2046382af719c8c8d737d66e5b4f3ceb9fcde"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/yidhari_body_map2_d_tga_44972621.vtex_c",
+          "bytes": 2798316,
+          "sha256": "c80cece041f3fab0efa40c6620403ed858f23c4864f2123c7e0e8accb3669a6d"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/yidhari_body_map2_n_tga_ae702957.vtex_c",
+          "bytes": 1400308,
+          "sha256": "91da9d3c5f2d37628603878bdfafd02b7b62874f85482de084a21b38cf8cd73a"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/yidhari_face_d_tga_3308e4b9.vtex_c",
+          "bytes": 2798316,
+          "sha256": "b4a0efb2f7a2c976509949bcda1fec63a9c01f1d6d7f9795e2bb5c190ab1994b"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/yidhari_tail_map1_d_tga_f49dfb74.vtex_c",
+          "bytes": 701164,
+          "sha256": "3c2ae55ac1c795789c72e5e0f5ea631a61e62064484cb5514852949dc1e6dcca"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/mat/yidhari_tail_map1_n_tga_60930fc.vtex_c",
+          "bytes": 1400308,
+          "sha256": "4560705810ce17f270735401174f3b0adc40efda7b4eda70bf6e63753b3c1d90"
+        },
+        {
+          "path": "characters/models/kolka/2026/yidhari/yidhari.vmdl_c",
+          "bytes": 1178757,
+          "sha256": "903f8f4e12a52230ab03ba619aeff8cabdfd7666659ac6863ab95dd2b8dcdebb"
+        }
+      ],
+      "cloth_nodes": 34,
+      "runtime_verified": false,
+      "source_workshop": "3762111612"
+    },
+    {
+      "id": "nano-girl-workshop-ag2",
+      "name": "Nano Girl (AG2, untested)",
+      "model": "characters/models/kolka/nano_girl/nano_girl.vmdl",
+      "files": [
+        {
+          "path": "characters/models/kolka/nano_girl/mat/color1.vmat_c",
+          "bytes": 4127,
+          "sha256": "3933941990af4d2f473f863424728d191a8613860c749a3572e1170236bed926"
+        },
+        {
+          "path": "characters/models/kolka/nano_girl/mat/color1_vmat_g_tmetalness_10974e8a.vtex_c",
+          "bytes": 2624,
+          "sha256": "a6cb4cc9c93c6ddb642e70a53f21cdcadfd0718efa05afadb19dc87c852514e0"
+        },
+        {
+          "path": "characters/models/kolka/nano_girl/mat/color2.vmat_c",
+          "bytes": 4063,
+          "sha256": "97f53a11692409a511fc4a7d9324de5eaec971f61200da9a0b9cd9a335376e39"
+        },
+        {
+          "path": "characters/models/kolka/nano_girl/mat/color2_vmat_g_tmetalness_10974e8a.vtex_c",
+          "bytes": 2624,
+          "sha256": "a6cb4cc9c93c6ddb642e70a53f21cdcadfd0718efa05afadb19dc87c852514e0"
+        },
+        {
+          "path": "characters/models/kolka/nano_girl/mat/ddnout_png_5a304f83.vtex_c",
+          "bytes": 5594628,
+          "sha256": "6a41656243515fadb81bae1c7d4926895bb463ba3658311d57ada93c5201f3e7"
+        },
+        {
+          "path": "characters/models/kolka/nano_girl/mat/diff_bout_png_d267701d.vtex_c",
+          "bytes": 2798316,
+          "sha256": "63cdb14aaaec1dd5cdee205acc45f902dcf7595162b5002fdeb33f060eef7b99"
+        },
+        {
+          "path": "characters/models/kolka/nano_girl/mat/diffout_png_35351c36.vtex_c",
+          "bytes": 2798300,
+          "sha256": "63a22b9ecb7acdfbb0cfdcefe6146c820bcb9094e92258da08fd27d4edc3d165"
+        },
+        {
+          "path": "characters/models/kolka/nano_girl/nano_girl/body_vmorf.vtex_c",
+          "bytes": 4984,
+          "sha256": "0a634e9a8b72585e558e0e2c22b7992a763e977197bc040f60833bcab6333e2d"
+        },
+        {
+          "path": "characters/models/kolka/nano_girl/nano_girl.vmdl_c",
+          "bytes": 351731,
+          "sha256": "793da05b4096e2eb0f1d5b5f82d01dba72bb54f469a93852875f96be7b433b14"
+        },
+        {
+          "path": "characters/models/kolka/nano_girl/nano_girl_yellow/body_vmorf.vtex_c",
+          "bytes": 4984,
+          "sha256": "0a634e9a8b72585e558e0e2c22b7992a763e977197bc040f60833bcab6333e2d"
+        }
+      ],
+      "cloth_nodes": 0,
+      "runtime_verified": false,
+      "source_workshop": "3762111612"
     }
   ]
 }

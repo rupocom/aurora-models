@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "skyboxes": [
+    {
+      "id": "daybreak",
+      "name": "Daybreak",
+      "material": "materials/aurora/sky/_build_daybreak_1642dec12195_618ef2ba/sky.vmat",
+      "folder": "skyboxes/daybreak",
+      "files": [
+        {
+          "path": "materials/aurora/sky/_build_daybreak_1642dec12195_618ef2ba/panorama_png_aa7a3dfc.vtex_c",
+          "bytes": 427795,
+          "sha256": "ad230ed2cefd0246677c85906e2b836c7dd2097a709ca57c48d501989855e422"
+        },
+        {
+          "path": "materials/aurora/sky/_build_daybreak_1642dec12195_618ef2ba/sky.vmat_c",
+          "bytes": 2284,
+          "sha256": "fa78973a71b7d09b8da4eb54c687a0e07befaf2a2e18cbe1e88c8fff883e3e47"
+        }
+      ]
+    },
+    {
+      "id": "neon_temptress",
+      "name": "Neon Temptress",
+      "material": "materials/aurora/sky/_build_neon_temptress_43f93f927640_ec1d1d78/sky.vmat",
+      "folder": "skyboxes/neon_temptress",
+      "files": [
+        {
+          "path": "materials/aurora/sky/_build_neon_temptress_43f93f927640_ec1d1d78/panorama_png_ccd8689e.vtex_c",
+          "bytes": 525500,
+          "sha256": "a874dbf1eafbf0bd9cf9484ea724249e2da6f5a4fba6a9ab1786d11ea48c3efe"
+        },
+        {
+          "path": "materials/aurora/sky/_build_neon_temptress_43f93f927640_ec1d1d78/sky.vmat_c",
+          "bytes": 2316,
+          "sha256": "94e5b22f09f0d7c0d820946524ab964e6791ec53d6648511d03746ea19f4c092"
+        }
+      ]
+    },
+    {
+      "id": "twin_mischief",
+      "name": "Twin Mischief",
+      "material": "materials/aurora/sky/_build_twin_mischief_cade1e064b8b_85cbf607/sky.vmat",
+      "folder": "skyboxes/twin_mischief",
+      "files": [
+        {
+          "path": "materials/aurora/sky/_build_twin_mischief_cade1e064b8b_85cbf607/panorama_png_b754aa99.vtex_c",
+          "bytes": 239838,
+          "sha256": "66efe2c5333193172379f591886a00e7a9537698658749f60f9f16c161ba91df"
+        },
+        {
+          "path": "materials/aurora/sky/_build_twin_mischief_cade1e064b8b_85cbf607/sky.vmat_c",
+          "bytes": 2300,
+          "sha256": "b050ff6a3ec357e255279682b63a45a44e142ad3a410da637bcc268242d5b5f3"
+        }
+      ]
+    },
+    {
+      "id": "velvet_dusk",
+      "name": "Velvet Dusk",
+      "material": "materials/aurora/sky/_build_velvet_dusk_62fbfd767b26_75500b13/sky.vmat",
+      "folder": "skyboxes/velvet_dusk",
+      "files": [
+        {
+          "path": "materials/aurora/sky/_build_velvet_dusk_62fbfd767b26_75500b13/panorama_png_6341bdac.vtex_c",
+          "bytes": 525500,
+          "sha256": "30782194a19b3f62ab599ab5826f7581cdc5ad7802457f44cdc06ea74ff7ecc0"
+        },
+        {
+          "path": "materials/aurora/sky/_build_velvet_dusk_62fbfd767b26_75500b13/sky.vmat_c",
+          "bytes": 2300,
+          "sha256": "3c8db65859db45af1e0d843ca0ee5895d6a91b289645a139b65e9b5f93cdfcde"
+        }
+      ]
+    },
+    {
+      "id": "wallhaven_g8x19q",
+      "name": "Windowlight",
+      "material": "materials/aurora/sky/_build_wallhaven_g8x19q_5d4d6a7f1b70_331f9b14/sky.vmat",
+      "folder": "skyboxes/wallhaven_g8x19q",
+      "files": [
+        {
+          "path": "materials/aurora/sky/_build_wallhaven_g8x19q_5d4d6a7f1b70_331f9b14/panorama_png_877e1c4b.vtex_c",
+          "bytes": 1967844,
+          "sha256": "1bb08561dc85fa6f70199d5c190b7d118b6c0592db2963b54940505e02c3796b"
+        },
+        {
+          "path": "materials/aurora/sky/_build_wallhaven_g8x19q_5d4d6a7f1b70_331f9b14/sky.vmat_c",
+          "bytes": 2332,
+          "sha256": "7a20ec8e2d6c0e0b00ac16e36758f092483f3a6ad8df3e7cdec62e14114c587b"
+        }
+      ]
+    },
+    {
+      "id": "wallhaven",
+      "name": "Wallhaven",
+      "material": "materials/aurora/sky/wallhaven_live.vmat",
+      "folder": "skyboxes/wallhaven",
+      "files": [
+        {
+          "path": "materials/aurora/sky/wallhaven_live.vmat_c",
+          "bytes": 2188,
+          "sha256": "f2def02cba2e475225ba527040f33a23ea9d6c61284e4fc35b42fb45eccc8c21"
+        },
+        {
+          "path": "materials/aurora/sky/wallhaven_png_36bf7794.vtex_c",
+          "bytes": 864454,
+          "sha256": "1655dc7c1a7814f4751dc2ffa6b11b95aaacfe8a52ce8dcb56e49aab4c0600bf"
+        }
+      ]
+    }
+  ]
+}
