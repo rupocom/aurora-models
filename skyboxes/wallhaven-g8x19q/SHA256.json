@@ -1,0 +1,27 @@
+[
+  {
+    "path": "preview.png",
+    "bytes": 501079,
+    "sha256": "b4eb3e977865605cd5f670f8cb783e618d2cbb2368e8f793439940285e7a0570"
+  },
+  {
+    "path": "README.txt",
+    "bytes": 530,
+    "sha256": "248c6619301e7df2a7efe8085b341486f9650e845d2d90d47bc9dd21f915fccb"
+  },
+  {
+    "path": "source.jpg",
+    "bytes": 517099,
+    "sha256": "cc952f156d58cd18cc36b5df6d6136a315973a3337cab06089c86c330cdba997"
+  },
+  {
+    "path": "materials/aurora/sky/_build_wallhaven_g8x19q_5d4d6a7f1b70_331f9b14/panorama_png_877e1c4b.vtex_c",
+    "bytes": 1967844,
+    "sha256": "1bb08561dc85fa6f70199d5c190b7d118b6c0592db2963b54940505e02c3796b"
+  },
+  {
+    "path": "materials/aurora/sky/_build_wallhaven_g8x19q_5d4d6a7f1b70_331f9b14/sky.vmat_c",
+    "bytes": 2332,
+    "sha256": "7a20ec8e2d6c0e0b00ac16e36758f092483f3a6ad8df3e7cdec62e14114c587b"
+  }
+]
