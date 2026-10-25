@@ -552,6 +552,2151 @@
       "cloth_nodes": 0,
       "runtime_verified": false,
       "source_workshop": "3762111612"
+    },
+    {
+      "id": "lynx-hel-ag2",
+      "name": "Hel (LynX AG2)",
+      "model": "agents/models/hmn_ag2/aether_gazer/hel/hel.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_png_9dffad3.vtex_c",
+          "bytes": 701180,
+          "sha256": "036914e6f5d693228f1eee0e7b3831fa65c4c4b4a91992aa8bf83027702e23b5"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex.vmat_c",
+          "bytes": 4192,
+          "sha256": "71d8e0417285af2535522e179b547340e54beeee68c0b4abec770b316f3e504e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tmetalness_b99de324.vtex_c",
+          "bytes": 2592,
+          "sha256": "4de081570aaea36e0daf4dc876aef594b62bb840784db494ad897ed3ce9ad107"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/hel.vmdl_c",
+          "bytes": 1034482,
+          "sha256": "e849161f1e85404470f17dd7d516914244ec49af2c44e13164deb5b1c2112118"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/hel_sk2model/body_vmorf.vtex_c",
+          "bytes": 20040,
+          "sha256": "d0b9d8e802568bc7797f415c8b8842b6ace734c9f1d69d1875d893a09bac3274"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/body01_normal_png_7baf8855.vtex_c",
+          "bytes": 1400308,
+          "sha256": "9dd11a3c5a9caa2771e517a632d2f8de9f43065006417dd7f38021de6d459f0f"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/body01_png_1d6472d9.vtex_c",
+          "bytes": 701180,
+          "sha256": "68d722dd1a49b6e6b2feab749ff6cc0cadfbed3ff4a9eab4b482df00cc632e1b"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/body02_normal_png_65efd4a9.vtex_c",
+          "bytes": 351732,
+          "sha256": "0422aba55f009ccc15297e5f7540e56a1802226bd42e4d1d5383269e32b462b6"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/body02_png_68876561.vtex_c",
+          "bytes": 176892,
+          "sha256": "6fac1fa42e46b4ba7ee94794d789c2f341972fe6c5b06dcc0e3616f2cc489c31"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/face01_png_58c88251.vtex_c",
+          "bytes": 176892,
+          "sha256": "aeda7a027454bd213235d791d5111a3686489f79a4312a10169c49985b550588"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hair01_png_87106b51.vtex_c",
+          "bytes": 176892,
+          "sha256": "3c29b5a32409162c8c35c3a7b5259f6585a48a696ea228094ae7bd6f28f47bd2"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_body01.vmat_c",
+          "bytes": 4841,
+          "sha256": "a4ad03436546de5e973d7d98b364d71fca8796bac7e72295ad3556f79e3295fc"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_body01_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_body01_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_body01_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_body02.vmat_c",
+          "bytes": 4841,
+          "sha256": "8e4af3d23b99c5017a4c10218873f270aa19bee02701bd8d1cd5f4de90594933"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_body02_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_body02_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_body02_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_face01.vmat_c",
+          "bytes": 4857,
+          "sha256": "0ed82420e3b12e21b2f4ed96029ef71f861bcc9141224cdf96c559944b1b7357"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_face01_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_face01_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_face01_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_face01_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_hair01.vmat_c",
+          "bytes": 4857,
+          "sha256": "84788b2e1a77040853f7552d0d184a9c6ce4a6fcf8efca874fdce3bb1f00aaf4"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_hair01_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_hair01_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_hair01_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/hel/materials/hel_hair01_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ]
+    },
+    {
+      "id": "lynx-kuramitsuha-ag2",
+      "name": "Kuramitsuha (LynX AG2)",
+      "model": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/kuramitsuha.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_png_9dffad3.vtex_c",
+          "bytes": 701180,
+          "sha256": "036914e6f5d693228f1eee0e7b3831fa65c4c4b4a91992aa8bf83027702e23b5"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex.vmat_c",
+          "bytes": 4192,
+          "sha256": "71d8e0417285af2535522e179b547340e54beeee68c0b4abec770b316f3e504e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tmetalness_b99de324.vtex_c",
+          "bytes": 2592,
+          "sha256": "4de081570aaea36e0daf4dc876aef594b62bb840784db494ad897ed3ce9ad107"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/kuramitsuha.vmdl_c",
+          "bytes": 1020114,
+          "sha256": "b0d5c5e5463cc61b1dd6ea5f2f5f05fe793ae7d94844f29703fd34547e0aa6bd"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/kuramitsuha_sk2model/body_vmorf.vtex_c",
+          "bytes": 21128,
+          "sha256": "de391fadfba0f1fa4a5d5470bd0ff5d7bf81966d7ab0f80496c9c66be96c05d3"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/body_normal_png_1539edce.vtex_c",
+          "bytes": 351748,
+          "sha256": "c890f9c1bbdfb6a0ad96bdd5997c3840a18c79577921ab11154dc2016c9cb873"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/body_png_985055ab.vtex_c",
+          "bytes": 701180,
+          "sha256": "47573c0bcbe58c6a72c43e22193ebadf83b381ebb15637b9c039ae58f9225dd3"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/face_png_bf9584b6.vtex_c",
+          "bytes": 176892,
+          "sha256": "bf9515876c772668eca84318ee2460dacab36d1527ab0c63b54e95ecdf982290"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/hair_png_927466e0.vtex_c",
+          "bytes": 701180,
+          "sha256": "97292020c7ca5544d9035f1bfd6f1de14e5d9abf489713c0ea53bac38849dbac"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_body.vmat_c",
+          "bytes": 4905,
+          "sha256": "ac9f1c868aedc1bb55731065f1c0d8790dded2e4b1c4a24ae70f38d08978e7d9"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_body_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_body_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_body_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_face.vmat_c",
+          "bytes": 4937,
+          "sha256": "2666b89e2de645012dc9607fd02f4828f56c8e62846e8f6f94f35d565ebcb7d6"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_face_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_face_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_face_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_face_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_hair.vmat_c",
+          "bytes": 4937,
+          "sha256": "7408138b337a370c497487fcb60d05b8234e42f32afc07d0af11579b8b0a3e9e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_hair_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_hair_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_hair_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/kuramitsuha/materials/kuramitsuha_hair_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ]
+    },
+    {
+      "id": "lynx-skadi-ag2",
+      "name": "Skadi (LynX AG2)",
+      "model": "agents/models/hmn_ag2/aether_gazer/skadi/skadi.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_png_9dffad3.vtex_c",
+          "bytes": 701180,
+          "sha256": "036914e6f5d693228f1eee0e7b3831fa65c4c4b4a91992aa8bf83027702e23b5"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex.vmat_c",
+          "bytes": 4192,
+          "sha256": "71d8e0417285af2535522e179b547340e54beeee68c0b4abec770b316f3e504e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tmetalness_b99de324.vtex_c",
+          "bytes": 2592,
+          "sha256": "4de081570aaea36e0daf4dc876aef594b62bb840784db494ad897ed3ce9ad107"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/cloth_png_5e443caf.vtex_c",
+          "bytes": 2798332,
+          "sha256": "b22c2431c136933e9cb2e013373e9b17c6a5fea63e0b91f49b14c44b6ec00e34"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/face_png_956de835.vtex_c",
+          "bytes": 2798332,
+          "sha256": "06a1c1e756b3b0bb8a2238e25587b6ea1571faf574ea6472c225e5337789645f"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/hair_png_9a5abe61.vtex_c",
+          "bytes": 2798332,
+          "sha256": "c4eaaf655bf5dd4db7c0bebffd7165ee7bde07fa99a9b8caad34b8097c219df9"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_cloth.vmat_c",
+          "bytes": 4873,
+          "sha256": "f2f90471e255447a41efacb1083b84fb5c8ac30c8a39257ea52312461cd612ea"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_cloth_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_cloth_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_cloth_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_cloth_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_face.vmat_c",
+          "bytes": 4873,
+          "sha256": "06a556aa24ffa969e930bd8b8492bda816aaa87de528028b8a50a4ef7086bd1a"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_face_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_face_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_face_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_face_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_hair.vmat_c",
+          "bytes": 4873,
+          "sha256": "7cb2ad431b02ad80f83798f7b652868467a3e1f4b6859876f01d4f9cb50c2543"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_hair_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_hair_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_hair_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/materials/skadi_hair_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/skadi.vmdl_c",
+          "bytes": 998359,
+          "sha256": "b86ce507846bc3ecaa71f3cc46ebd80c204f068ba1b7d57da932afc1f3221de2"
+        },
+        {
+          "path": "agents/models/hmn_ag2/aether_gazer/skadi/skadi_sk2model/body_vmorf.vtex_c",
+          "bytes": 18468,
+          "sha256": "1f42129a8d2dd213e9fd5c6dd992edf117249353e2c3b05309b8c9480290e410"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ]
+    },
+    {
+      "id": "lynx-pathfinder-ag2",
+      "name": "Pathfinder (LynX AG2)",
+      "model": "agents/models/hmn_ag2/apex_legends/pathfinder/pathfinder.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/emote_happy_cs2.vmat_c",
+          "bytes": 4499,
+          "sha256": "2e1441eb120c46237ab2dae18210e43da7a26f44ea1ad6eb10ad25316c4742f2"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/emote_happy_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/emote_happy_cs2_vmat_g_tmetalness_10974e8a.vtex_c",
+          "bytes": 2640,
+          "sha256": "46634e20802532b214b33d76a26542a9e32bdd58c3654708e856e3f90db21014"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/emote_happy_cs2_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/emote_happy_tga_ffba59a0.vtex_c",
+          "bytes": 89508,
+          "sha256": "b52599a012a74e83bc7b25890c9a1aa789a866d5d3cd65d928e33de4f329da34"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_body_cs2.vmat_c",
+          "bytes": 4921,
+          "sha256": "3ce2b75e737905e2552398bf0dbc786972e92401e50a18e214a1c34efd9c7e59"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_body_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_body_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_body_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_body_n_jpg_c584ec52.vtex_c",
+          "bytes": 5594612,
+          "sha256": "1217779038786035fc0b4561a47af603840062ebb80546b64a72d48220eec50b"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_body_tga_52fea254.vtex_c",
+          "bytes": 2798332,
+          "sha256": "41ad222b1061435461031991708ae1683b61bd2298173de2495123e83735028c"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_grapplehook_cs2.vmat_c",
+          "bytes": 4969,
+          "sha256": "64bab03865fdbf1a21d066dc47dedf71b38dbf90fb7805ba9defedab706065af"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_grapplehook_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_grapplehook_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_grapplehook_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_grapplehook_n_jpg_1af85bc.vtex_c",
+          "bytes": 1400324,
+          "sha256": "5244fac99fb142e4b2c22dceebb3715cae5a2893c5176c24b99291515c058fab"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_grapplehook_tga_ffc3f210.vtex_c",
+          "bytes": 701180,
+          "sha256": "d6c220184ab241d2f5a1c9340c4e7a4e80d0ce22af19ee3a0930e96bdbb39df2"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_hands_cs2.vmat_c",
+          "bytes": 4921,
+          "sha256": "9848365713ac0e6a3c5d727b00b3d3816c30fd6b257b0ca187b6de954fceaa72"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_hands_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_hands_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_hands_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_hands_n_jpg_18e4df99.vtex_c",
+          "bytes": 1400324,
+          "sha256": "1b830745a511bf4445b8832e73a9fb720b44b368b3483a8938e2537963b05243"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_hands_tga_f088b9f8.vtex_c",
+          "bytes": 701180,
+          "sha256": "d6a20f5c6465ec72fa65f1f2c6fb29670fe5b3c47652321b0ef0030bcdf14b1e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_head_cs2.vmat_c",
+          "bytes": 4921,
+          "sha256": "44bb3610b5731464ed21df6eff78d097aa57a65d6f770440f523c1ee552b5439"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_head_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_head_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_head_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_head_n_jpg_c7dc3aba.vtex_c",
+          "bytes": 2798404,
+          "sha256": "054457b271993706d2677abdcf2176e0d72b2908d176193a3a4edb309415ee6e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_head_tga_3cb751f0.vtex_c",
+          "bytes": 1400228,
+          "sha256": "c0aa57744af0746a5377c409de0c12eda36d103da9b0a98535300e2f220f75e4"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_jumpkit_cs2.vmat_c",
+          "bytes": 4953,
+          "sha256": "d31671eb4031abe5a460881d49591148be9204d61fc0972c4fc7858876b0a261"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_jumpkit_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_jumpkit_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_jumpkit_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_jumpkit_cs2_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_jumpkit_tga_eb4eeddb.vtex_c",
+          "bytes": 701180,
+          "sha256": "e3bffb8226c6bc1eaf8345c4359223658ee1f8f28e3823f5415ef671a55be3d9"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_zipline_cs2.vmat_c",
+          "bytes": 4937,
+          "sha256": "862cd7f3557bca81db2d1d0744b3d382e24f0a4b589d683e9636e726ea2b9cea"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_zipline_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_zipline_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_zipline_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_zipline_n_jpg_7660739c.vtex_c",
+          "bytes": 1400324,
+          "sha256": "9d85a1db8830e8d55c1383619a72cfe4a751c0eb949ad11a5a543f057f0b60aa"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/materials/pathfinder_zipline_png_52584d87.vtex_c",
+          "bytes": 701180,
+          "sha256": "0a48dea91a8f49aa69e41b988c4f23352a91d2a1099da7f3622438790214bb18"
+        },
+        {
+          "path": "agents/models/hmn_ag2/apex_legends/pathfinder/pathfinder.vmdl_c",
+          "bytes": 926944,
+          "sha256": "ef8f914757375c452f8593e939d57fd876fb263c9b952d553aa75c60d1b32f12"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ]
+    },
+    {
+      "id": "lynx-exusiai-ag2",
+      "name": "Exusiai (LynX AG2)",
+      "model": "agents/models/hmn_ag2/arknights/exusiai/exusiai.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/arknights/exusiai/exusiai.vmdl_c",
+          "bytes": 1347470,
+          "sha256": "9b73d036386e4e205d1eab72ec1d5b0a5a25b2589da443ccfe933403158010ee"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/exusiai/exusiai_sk2model/body_vmorf.vtex_c",
+          "bytes": 51368,
+          "sha256": "545c84d804cadf6e86b517b3f316ebcb1ff17a3071dab81875235678eb65c904"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/exusiai/materials/exusiai_cs2.vmat_c",
+          "bytes": 4873,
+          "sha256": "9de7c3da54d5479c422d11f9399dcf3610d939a9e99bed00c7a12a94f62664ac"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/exusiai/materials/exusiai_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/exusiai/materials/exusiai_cs2_vmat_g_tmetalness_cf312789.vtex_c",
+          "bytes": 2592,
+          "sha256": "3570a51fc5130c18c4612f9424f7810d1f146b0d5d28b253488753f400099cb9"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/exusiai/materials/exusiai_cs2_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/exusiai/materials/exusiai_texture_png_21031f16.vtex_c",
+          "bytes": 2798472,
+          "sha256": "01a9200136d925dc096cbf459710953c30c25179675261b1758cba4593eeb7a6"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        },
+        {
+          "path": "materials/default/default_skin_diffusewarp_tga_e58a9ed.vtex_c",
+          "bytes": 1400216,
+          "sha256": "3cb774a203ebf4d2859acb4abbe8e9b0829efd32122756ac7cf813303c7184be"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ]
+    },
+    {
+      "id": "lynx-lappland-ag2",
+      "name": "Lappland (LynX AG2)",
+      "model": "agents/models/hmn_ag2/arknights/lappland/lappland.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/lappland.vmdl_c",
+          "bytes": 1414617,
+          "sha256": "3b6d793dcc36bd9602c1ac5a7d12619578fc142b120a6230d01069d41ad4420b"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/lappland_sk2model/body_vmorf.vtex_c",
+          "bytes": 23400,
+          "sha256": "6eb56a5f698ecdb9e7cd0184848ec0dc102cc3ecddc4d8459958607c0b3d473f"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/collar.vmat_c",
+          "bytes": 4857,
+          "sha256": "0526f7326723ddc679d91cddd986defc9a24aeb153a17fac740b398346afdf53"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/collar_png_77a39d49.vtex_c",
+          "bytes": 701180,
+          "sha256": "6d0237e63cc0bcb30d3b695e71032877678bec9641a59376b3577c521a7e4f9f"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/collar_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/collar_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/collar_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/collar_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/disorderlystrand.vmat_c",
+          "bytes": 4921,
+          "sha256": "ff6dd6a33810b500bd9ff7c062abfa0d8aae7930c571582a59b9825af7d3fe5d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/disorderlystrand_png_8d1e5864.vtex_c",
+          "bytes": 176884,
+          "sha256": "0003a638bd7707aea1c9677066280b8ced419a309709172d893b0b01ed6daada"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/disorderlystrand_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/disorderlystrand_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/disorderlystrand_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/disorderlystrand_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/earsflowers_outside.vmat_c",
+          "bytes": 4921,
+          "sha256": "95fab6eb7751a87d2836074d5bf22b735c111b26ddfcec7d5dcd9405150d7b5b"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/earsflowers_outside_png_ef93a813.vtex_c",
+          "bytes": 701196,
+          "sha256": "ad315d92aff171ffdf8dd4f748dd3e3156e54342fd819715d363a51ab810d29b"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/earsflowers_outside_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/earsflowers_outside_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/earsflowers_outside_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/earsflowers_outside_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/face.vmat_c",
+          "bytes": 4825,
+          "sha256": "3d82379a0ec944c26cc08e025563e347cc01e594f7ecf31cedd06a4eba2d5c2c"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/face_png_6f2d8002.vtex_c",
+          "bytes": 2798316,
+          "sha256": "8f9f92b1dda055a04e6710260ebcfdf4b4938f68c27d23c7f5bbc443a03cf8e3"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/face_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/face_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/face_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/face_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/hair.vmat_c",
+          "bytes": 4841,
+          "sha256": "d406a76517850fcce97930bb84ab3dad3d8fa8801c6ad5da8756d76c38a6b2dd"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/hair_png_5cdf6e7d.vtex_c",
+          "bytes": 701180,
+          "sha256": "3cb41a7a9c5db13498988004e1e77bb3c1882f59b2ee3d6bc758742824549b41"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/hair_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/hair_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/hair_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/hair_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/outsideset.vmat_c",
+          "bytes": 4873,
+          "sha256": "c810fa4384ccae6ce298b9e619f80b155d9a50dda0cf5ef1f26fbdcfd2897c4d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/outsideset_jpg_251a6567.vtex_c",
+          "bytes": 701180,
+          "sha256": "5e0c8481805d20581ed1846b9bb82b3ebea26bf70c58e9b455f8e7a5ecb85f3a"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/outsideset_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/outsideset_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/outsideset_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/outsideset_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/shoe.vmat_c",
+          "bytes": 4841,
+          "sha256": "b93b27c09749f61ff976a619afd226b0aa46ce5af6e8f226a5c22e243f40b476"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/shoe_jpg_dc7eb5ef.vtex_c",
+          "bytes": 701180,
+          "sha256": "7c7cd26fa8a1711518cfaeda645694e03940bef1c88697fd9e4d67cfac773ce9"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/shoe_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/shoe_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/shoe_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/shoe_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/shortpants.vmat_c",
+          "bytes": 4873,
+          "sha256": "40ee0da6f251df6901ca62814e1a30be4f360f9070d252320e467b36db0823fb"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/shortpants_jpg_5e6db99a.vtex_c",
+          "bytes": 176892,
+          "sha256": "7e8f4a02c12d4e3af3373a166a797e4d7e046bffabac420cf2948abe7ae1a969"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/shortpants_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/shortpants_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/shortpants_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/shortpants_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/skin.vmat_c",
+          "bytes": 4841,
+          "sha256": "49725edc4a89bb0945764b5c89768286d08b2ca866dcdb2ff24ac618f98648de"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/skin_jpg_e23cbf50.vtex_c",
+          "bytes": 1400368,
+          "sha256": "01dbf178f15b77da86197341b7bc004c71407ec38d12c6a9c7808295e263d0b1"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/skin_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/skin_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/skin_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/skin_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/sleeve.vmat_c",
+          "bytes": 4857,
+          "sha256": "051cf631239f98289b521af935b85ca9e3d7c49bff1e21406640452e62be313c"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/sleeve_jpg_2f53b132.vtex_c",
+          "bytes": 2798332,
+          "sha256": "4dd0308a13d508ebc1c5ffc2a78a3f9ca3fee15e5590222304ffee32b7c478f4"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/sleeve_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/sleeve_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/sleeve_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/sleeve_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/tail.vmat_c",
+          "bytes": 4841,
+          "sha256": "aa7b014a962327f8f9ac0cee3fe4890a6efd3367a0d01764beec293cb9a101dc"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/tail_png_adbde939.vtex_c",
+          "bytes": 176884,
+          "sha256": "46824bba33a4b3d091eec68d72dcefe908cb4bd0bf3b97c20d32ec4b3f150145"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/tail_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/tail_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/tail_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/tail_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/whitecolor.vmat_c",
+          "bytes": 4873,
+          "sha256": "9f37175623c2139c486d0e506022132ec0e4dfd94e379dbf4dd85d040196fe5b"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/whitecolor_jpg_bb0b732d.vtex_c",
+          "bytes": 1400228,
+          "sha256": "75bc1f9b9b0e295e1d2511e86ac4d1e4b756afac46747700f49baca300989709"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/whitecolor_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/whitecolor_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/whitecolor_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights/lappland/materials/whitecolor_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ]
+    },
+    {
+      "id": "lynx-chen-qianyu-ag2",
+      "name": "Chen Qianyu (LynX AG2)",
+      "model": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/chen_qianyu.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_png_9dffad3.vtex_c",
+          "bytes": 701180,
+          "sha256": "036914e6f5d693228f1eee0e7b3831fa65c4c4b4a91992aa8bf83027702e23b5"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex.vmat_c",
+          "bytes": 4192,
+          "sha256": "71d8e0417285af2535522e179b547340e54beeee68c0b4abec770b316f3e504e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tmetalness_b99de324.vtex_c",
+          "bytes": 2592,
+          "sha256": "4de081570aaea36e0daf4dc876aef594b62bb840784db494ad897ed3ce9ad107"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/chen_qianyu.vmdl_c",
+          "bytes": 1810374,
+          "sha256": "4654ad8337838de96b616854f91cf627d88f2caa76e5489d6d7c9ce089baddc9"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/chen_qianyu_sk2model/body_vmorf.vtex_c",
+          "bytes": 23400,
+          "sha256": "a5a243a9738602f7b31a98d04a6a291dcc99d5efe7059365f8d5599d66a5191d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_body_01_d.vmat_c",
+          "bytes": 4985,
+          "sha256": "497b1b831ec2425a0a5a55f6eef2d327846c4c4c5084eabedb9563d92e94f1d7"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_body_01_d_png_5238e95c.vtex_c",
+          "bytes": 176908,
+          "sha256": "d220b269b93fe2ee45efa4dacf175a244cdcc93c1e3979a8d5c1aeae2f3a9165"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_body_01_d_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_body_01_d_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_body_01_d_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_body_01_d_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_cloth_01_d.vmat_c",
+          "bytes": 4985,
+          "sha256": "b4e7a4696880dae71a9cf6f7d69ee7ec5a8327b9ad96d5a718858c1edc411e55"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_cloth_01_d_png_2b685fba.vtex_c",
+          "bytes": 2798348,
+          "sha256": "fe9d2b408fa45af9146b16e27a3157b45f8391f5ff42635cdd1b9c3c5ebacb7e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_cloth_01_d_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_cloth_01_d_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_cloth_01_d_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_cloth_01_d_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_eye_01_d.vmat_c",
+          "bytes": 4985,
+          "sha256": "c77e16f9c241dc27735528e41b20e8fe91f6d6c0a929f82e6a87341de699938b"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_eye_01_d_jpg_98e6a883.vtex_c",
+          "bytes": 176908,
+          "sha256": "37126d252cfd58b2f0573fd401142c654112a358a9b5334a53ddfeacec01b98f"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_eye_01_d_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_eye_01_d_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_eye_01_d_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_eye_01_d_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_face_01_d.vmat_c",
+          "bytes": 4985,
+          "sha256": "47d575d65b54b6bb4141f48fb8306378c3b3971cf17d1a02da5081d8dda81b2c"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_face_01_d_png_dd53e9c8.vtex_c",
+          "bytes": 701196,
+          "sha256": "ebccd39115fcd4fe45a3bd9152e9582f037360816b63a86fc140990e607f129d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_face_01_d_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_face_01_d_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_face_01_d_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_face_01_d_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_hair_01_d.vmat_c",
+          "bytes": 4985,
+          "sha256": "142d8186d98558c50ca6c68d973d8434fa03cd8e0a628300ddfa5e2f5e6ac268"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_hair_01_d_jpg_56de989b.vtex_c",
+          "bytes": 701196,
+          "sha256": "f8276ee21490516ef7b663d019973ae7ce65eaae8c79b4c2f9d531c823d198fe"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_hair_01_d_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_hair_01_d_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_hair_01_d_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/chen_qianyu/materials/chen_hair_01_d_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ]
+    },
+    {
+      "id": "lynx-endministrator-ag2",
+      "name": "Endministrator (LynX AG2)",
+      "model": "agents/models/hmn_ag2/arknights_endfield/endministrator/endministrator.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_png_9dffad3.vtex_c",
+          "bytes": 701180,
+          "sha256": "036914e6f5d693228f1eee0e7b3831fa65c4c4b4a91992aa8bf83027702e23b5"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex.vmat_c",
+          "bytes": 4192,
+          "sha256": "71d8e0417285af2535522e179b547340e54beeee68c0b4abec770b316f3e504e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tmetalness_b99de324.vtex_c",
+          "bytes": 2592,
+          "sha256": "4de081570aaea36e0daf4dc876aef594b62bb840784db494ad897ed3ce9ad107"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/endministrator.vmdl_c",
+          "bytes": 1360865,
+          "sha256": "50a6de8d2f065064071e55ac40d6223541443072ddd4422e333af56a728efef5"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/body.vmat_c",
+          "bytes": 4921,
+          "sha256": "f03417d99aafc2eaaa71ffb0d6a42c2777539d13df86c966ac054f7a8c1773a0"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/body_jpg_e759a538.vtex_c",
+          "bytes": 701196,
+          "sha256": "f5bd0bda6e6510438bd5ba2e2b9ec6d7bc1b6da64e96432dd2c91431b6d32786"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/body_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/body_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/body_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/body_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth1.vmat_c",
+          "bytes": 4969,
+          "sha256": "858ee962d3f4bff631bf4f3e68721e193791126a094e9364b42178801aca8459"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth1_jpg_a58ae6f0.vtex_c",
+          "bytes": 2798348,
+          "sha256": "94cecee5da0ba1b308f4207110252b8be07f160fa9c7b0157e5b5f98e9659a9f"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth1_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth1_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth1_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth1_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth3.vmat_c",
+          "bytes": 4969,
+          "sha256": "eaf623a62fb82465276c0cea10a6d77d1eca7f83ea81c4aa6dec502e96582259"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth3_jpg_6441658c.vtex_c",
+          "bytes": 701196,
+          "sha256": "f76b596ebfcbc8adac22123f224bcfa82051a530a04c84cb7a55a288def66ebd"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth3_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth3_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth3_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth3_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth4.vmat_c",
+          "bytes": 4969,
+          "sha256": "541bffc241b51aca82266e138c4c55d3fc6a1969f86d6f4aad074b5fe2a8c922"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth4_jpg_9b38cbb7.vtex_c",
+          "bytes": 701196,
+          "sha256": "053107867acf2fd7dc668d89cf369b05faf125379f2c6cdf7e7065893e618c20"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth4_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth4_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth4_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/cloth4_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/eye.vmat_c",
+          "bytes": 4937,
+          "sha256": "fbefe52c358959f4eed8902e8f337806c35a24b38ec823dfbe153712b9dd0a8e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/eye_jpg_88933dfb.vtex_c",
+          "bytes": 176892,
+          "sha256": "263852f71f37a4f395d7104f797d565e068c0af910977e1c62dbb389dabbeaf8"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/eye_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/eye_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/eye_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/eye_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/face.vmat_c",
+          "bytes": 4921,
+          "sha256": "808e803816217d9d0493a1ee71d31cab448dc4fa5ca557b1b5bb765e341cb96e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/face_jpg_e318664f.vtex_c",
+          "bytes": 701196,
+          "sha256": "4bfcf4def53b171726f22ff54f6b0091bd36b2a98842120a1583d83b54447917"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/face_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/face_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/face_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/face_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/hair.vmat_c",
+          "bytes": 4921,
+          "sha256": "9923750df6e64f1d5f88ddbc507c1b9a388ba4b81e8c3deb463ba05d9f04486b"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/hair_jpg_a911f8ae.vtex_c",
+          "bytes": 2798348,
+          "sha256": "db4543dbdf3ab404f304c14c9346bd48ef7be61c7f693a7cf16058888756343f"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/hair_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/hair_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/hair_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/endministrator/materials/hair_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ]
+    },
+    {
+      "id": "lynx-laevatain-ag2",
+      "name": "Laevatain (LynX AG2)",
+      "model": "agents/models/hmn_ag2/arknights_endfield/laevatain/laevatain.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/laevatain.vmdl_c",
+          "bytes": 1856474,
+          "sha256": "8a71c7602666a78120ce6a2ee66c7bcceaae30c852a40d21e106969b5841b7dc"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/laevatain_sk2model/body_vmorf.vtex_c",
+          "bytes": 22820,
+          "sha256": "dfce0235ef5026b65e57ffa74041b016dfa4248008ea18955e5af5382065f1d2"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/body.vmat_c",
+          "bytes": 4889,
+          "sha256": "850a128aa5a6503369de2cfe71ee05c8f9472f74d5f7c4b2e54308e88644dbd2"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/body_jpg_d3533955.vtex_c",
+          "bytes": 701180,
+          "sha256": "fae539b85b40bf7333b38c2c70e50bf80389cd10a12754514e2163511050cb80"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/body_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/body_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/body_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/body_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/cloth.vmat_c",
+          "bytes": 4889,
+          "sha256": "0af07f7ef7f009f4f780f464caa5ef79b9e99bafd0fe2a94eee5c1e17b17029b"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/cloth2.vmat_c",
+          "bytes": 4905,
+          "sha256": "661be01bf38f818a1d7c51fe2b2804f52faec7e15e4da2661bee3808b52826bd"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/cloth2_jpg_8b66c31b.vtex_c",
+          "bytes": 2798332,
+          "sha256": "9616140256948a877c1a55fc7d5579bb1a73cde244d5a30ee0bf4e9cdc67b84f"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/cloth2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/cloth2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/cloth2_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/cloth_01_n_jpg_519ed69.vtex_c",
+          "bytes": 5594628,
+          "sha256": "c97d4cbfd425599420f9473d3352eb067775b5d904f969b27007bc479a644447"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/cloth_02_n_jpg_40d95675.vtex_c",
+          "bytes": 5594628,
+          "sha256": "d81319362a1f548aaa6b9094d372494e12ce57a08d157fd4280e9a9d86e72d34"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/cloth_jpg_6ef410ca.vtex_c",
+          "bytes": 2798332,
+          "sha256": "e3a26732ed97e8c541fbbef91d954ca6590efb773467b5f487b6dbde058222ba"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/cloth_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/cloth_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/cloth_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/eye.vmat_c",
+          "bytes": 4873,
+          "sha256": "dcd1b9643f36720ac74828c5635e50727f52674c109da139ca5a199d2ae93c00"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/eye_jpg_9b43999b.vtex_c",
+          "bytes": 176892,
+          "sha256": "2ae9299bf2cf3cb15d9f1c8424035fa53488091cedb727fa50863adb54fd8f67"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/eye_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/eye_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/eye_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/eye_vmat_g_tnormal_953a319c.vtex_c",
+          "bytes": 2112,
+          "sha256": "20eccf0d163816b23779a7c266e6879f3b7c2f0bd86939459c3fd1e68e0bd3d4"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/face.vmat_c",
+          "bytes": 4873,
+          "sha256": "23c6cfd21d568b2710825ea7ebdd25fbf554317791ecb01104bbd6efc8b8dde4"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/face_jpg_93f8e460.vtex_c",
+          "bytes": 701180,
+          "sha256": "da87783bd7b3e6aad495c75b53d7de477fe0f7d4701c20ddbbd6c0401d7c0c38"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/face_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/face_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/face_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/face_vmat_g_tnormal_953a319c.vtex_c",
+          "bytes": 2112,
+          "sha256": "20eccf0d163816b23779a7c266e6879f3b7c2f0bd86939459c3fd1e68e0bd3d4"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/hair.vmat_c",
+          "bytes": 4889,
+          "sha256": "b8c29f196e8971d4ad4f90a2d86a2c22dd9a09289883cc8c9fd0062008f26741"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/hair_01_n_jpg_548750b3.vtex_c",
+          "bytes": 5594628,
+          "sha256": "bce218c01b6d74975beb4db281976420546ba1f50e4208cc68fc90a9a75f23ac"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/hair_jpg_eb6fdcc0.vtex_c",
+          "bytes": 2798332,
+          "sha256": "dcf40fc45dc7cb3334632ed21e5526b57b311338c84b6ef512cdc588796fcd32"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/hair_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/hair_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/hair_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/huan.vmat_c",
+          "bytes": 4873,
+          "sha256": "b4c824eefa9dc3bb55a5a9198ba47c85d3fb8e2bccbf27121520c8e9ebcfb806"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/huan_01_n_jpg_b0073cd8.vtex_c",
+          "bytes": 5594628,
+          "sha256": "151025ff25a9e1897db9ec359d5b16b8431a0f0f72cea4626cf6d8ff212b069b"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/huan_jpg_9ac5c20f.vtex_c",
+          "bytes": 2798332,
+          "sha256": "3a4dcf934b7c14f0d39ba073b510faf3dc029eed7106b3bfe903ed963ebd2ebe"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/huan_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/huan_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/laevatain/materials/huan_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ]
+    },
+    {
+      "id": "lynx-perlica-ag2",
+      "name": "Perlica (LynX AG2)",
+      "model": "agents/models/hmn_ag2/arknights_endfield/perlica/perlica.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_png_9dffad3.vtex_c",
+          "bytes": 701180,
+          "sha256": "036914e6f5d693228f1eee0e7b3831fa65c4c4b4a91992aa8bf83027702e23b5"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex.vmat_c",
+          "bytes": 4192,
+          "sha256": "71d8e0417285af2535522e179b547340e54beeee68c0b4abec770b316f3e504e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tmetalness_b99de324.vtex_c",
+          "bytes": 2592,
+          "sha256": "4de081570aaea36e0daf4dc876aef594b62bb840784db494ad897ed3ce9ad107"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/body.vmat_c",
+          "bytes": 4889,
+          "sha256": "4dd0fb1fa7420daf30af08e91f8805875f9222e740820e0d2b7e49ab016732f6"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/body_jpg_318789d5.vtex_c",
+          "bytes": 701180,
+          "sha256": "a00c20c29c097873607cddd6d7f43b87f280faeda821debc1f8da62583ab3895"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/body_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/body_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/body_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/body_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/cloth.vmat_c",
+          "bytes": 4873,
+          "sha256": "9d17a36590b4129fef6166aa89063e2cff5ad56d0296a3d554492fa6a06cc0c8"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/cloth_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/cloth_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/cloth_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/clothes_jpg_f632fe0c.vtex_c",
+          "bytes": 2798332,
+          "sha256": "7fe399432e4abd9b4f9d8eb31a6ac2030df25cdca0722768ed52ccb633fc1b5e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/clothes_n_jpg_56edb946.vtex_c",
+          "bytes": 5594628,
+          "sha256": "429d5a322827ae82aea92d3f39b6a1167efbd391b854fe1d0efc1e7dfa4a0c3f"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/eye.vmat_c",
+          "bytes": 4841,
+          "sha256": "d28c14c5666b88d535c0aec3d2b88c16f8d787ca2160d715f6139f1288310872"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/eye_jpg_9558a5bd.vtex_c",
+          "bytes": 176892,
+          "sha256": "199f35e887c4350c064000f32dded42c1c33b691d7c3042e2cb350539ba4a22d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/eye_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/eye_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/eye_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/eye_vmat_g_tnormal_953a319c.vtex_c",
+          "bytes": 2112,
+          "sha256": "20eccf0d163816b23779a7c266e6879f3b7c2f0bd86939459c3fd1e68e0bd3d4"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/face.vmat_c",
+          "bytes": 4873,
+          "sha256": "75f329f9e52f793e0ef1e61175346d5658e96cf2ef170e36d2298f433c1be391"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/face_jpg_f9c6b147.vtex_c",
+          "bytes": 701180,
+          "sha256": "e5899e1c8636e5f5136f2eb7dd65a94d274b312de0c63db41606042f31875ec3"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/face_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/face_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/face_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/face_vmat_g_tnormal_953a319c.vtex_c",
+          "bytes": 2112,
+          "sha256": "20eccf0d163816b23779a7c266e6879f3b7c2f0bd86939459c3fd1e68e0bd3d4"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/hair.vmat_c",
+          "bytes": 4873,
+          "sha256": "25ed3edf8b7eaef60626a47d50bdf1c020c191f7ac5230e03beb32d5410d808c"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/hair_jpg_9bf52c1e.vtex_c",
+          "bytes": 2798332,
+          "sha256": "74135edc78ca2e50a9d1a540ac40efa9f2c5dab3daba228888264a716e422696"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/hair_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/hair_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/hair_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/hair_vmat_g_tnormal_953a319c.vtex_c",
+          "bytes": 2112,
+          "sha256": "20eccf0d163816b23779a7c266e6879f3b7c2f0bd86939459c3fd1e68e0bd3d4"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/legs.vmat_c",
+          "bytes": 4873,
+          "sha256": "1886a6a408efd12c9181bb2aa1c0e6346d15fc2f8682c8157a67b0d88711d834"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/legs_jpg_7ede8f72.vtex_c",
+          "bytes": 2798332,
+          "sha256": "25894b1e80174d400a99da9b763f79b6f077887e085862e288ecd064708fbe44"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/legs_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/legs_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/legs_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/materials/legs_vmat_g_tnormal_953a319c.vtex_c",
+          "bytes": 2112,
+          "sha256": "20eccf0d163816b23779a7c266e6879f3b7c2f0bd86939459c3fd1e68e0bd3d4"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/perlica.vmdl_c",
+          "bytes": 2354607,
+          "sha256": "dc39356fd989a2b031eb7aae2a9cad77ce07a5a9bafd942f5ce25b3c0dcbcad6"
+        },
+        {
+          "path": "agents/models/hmn_ag2/arknights_endfield/perlica/perlica_sk2model/body_vmorf.vtex_c",
+          "bytes": 25800,
+          "sha256": "4f85a0df2d49a632d327c3126082d2c165d5bccf8f14ca7beaa7fafb6052702f"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ]
     }
   ]
 }
