@@ -108,6 +108,159 @@
           "sha256": "1655dc7c1a7814f4751dc2ffa6b11b95aaacfe8a52ce8dcb56e49aab4c0600bf"
         }
       ]
+    },
+    {
+      "id": "lynx-aurora-borealis",
+      "name": "Aurora Borealis (LynX)",
+      "material": "materials/skybox/aurora_borealis.vmat",
+      "folder": "skyboxes/lynx-aurora-borealis",
+      "files": [
+        {
+          "path": "materials/skybox/aurora_borealis.vmat_c",
+          "bytes": 2034,
+          "sha256": "317315548a09dc88e8b31e634bc1709cc19084d2bf8e82ae56b047bc7bbf0943"
+        },
+        {
+          "path": "materials/skybox/aurora_borealis_cube_tga_12a4afe0.vtex_c",
+          "bytes": 5406424,
+          "sha256": "733b153d65b7b907dbae3dec18972adbe8e6a6a39556a6922df454ca4ced07e1"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "lynx-clear-night-sky",
+      "name": "Clear Night Sky (LynX)",
+      "material": "materials/skybox/clear_night_sky.vmat",
+      "folder": "skyboxes/lynx-clear-night-sky",
+      "files": [
+        {
+          "path": "materials/skybox/clear_night_sky.vmat_c",
+          "bytes": 2268,
+          "sha256": "7d435e298bffbb19b5cd7e80985739595c172abb4d7e30335ff8c7caa02bf142"
+        },
+        {
+          "path": "materials/skybox/clear_night_sky_cubemap_exr_bc0d88e3.vtex_c",
+          "bytes": 8389768,
+          "sha256": "42b558d3ec04a4ffe84b012500a247919d2bd4d27618be927607e04b38fae2a4"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "lynx-dreamy-ocean",
+      "name": "Dreamy Ocean (LynX)",
+      "material": "materials/skybox/dreamy_ocean.vmat",
+      "folder": "skyboxes/lynx-dreamy-ocean",
+      "files": [
+        {
+          "path": "materials/skybox/dreamy_ocean.vmat_c",
+          "bytes": 2034,
+          "sha256": "36b918867007a7a3dcf9592e401fca12c326f86eaff7b57cb8797077a3a4343f"
+        },
+        {
+          "path": "materials/skybox/dreamy_ocean_cube_tga_41f143f0.vtex_c",
+          "bytes": 2403516,
+          "sha256": "29a17fee07ea8e7195143e836ea9109636638e760cc5f7f407eb69138b7f0562"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "lynx-northern-lights",
+      "name": "Northern Lights (LynX)",
+      "material": "materials/skybox/northern_lights.vmat",
+      "folder": "skyboxes/lynx-northern-lights",
+      "files": [
+        {
+          "path": "materials/skybox/northern_lights.vmat_c",
+          "bytes": 2034,
+          "sha256": "ee6a14170b74ebaca37b65bc4b3f0ed9501ecb966bf02cd77bea7848a7d87d88"
+        },
+        {
+          "path": "materials/skybox/northern_lights_cube_tga_8bdc68e6.vtex_c",
+          "bytes": 8389780,
+          "sha256": "4ef13b254efc227c3de50d4e71fa4f275da5b9b8f83825e6abe7331a3d9832a1"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "lynx-ocean-sunset",
+      "name": "Ocean Sunset (LynX)",
+      "material": "materials/skybox/ocean_sunset.vmat",
+      "folder": "skyboxes/lynx-ocean-sunset",
+      "files": [
+        {
+          "path": "materials/skybox/ocean_sunset.vmat_c",
+          "bytes": 2220,
+          "sha256": "1d3cb883b0d395a90d629daa4a8ac8b366d7a92b9d14cb673154e0332370aea2"
+        },
+        {
+          "path": "materials/skybox/sunset_cubemap_exr_eacf362.vtex_c",
+          "bytes": 8389752,
+          "sha256": "cbda5f75ef5686eaafae55ae0640c6c8b579a398e58494de18010ada08865193"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "lynx-interstellar",
+      "name": "Interstellar (LynX)",
+      "material": "materials/skybox/interstellar.vmat",
+      "folder": "skyboxes/lynx-interstellar",
+      "files": [
+        {
+          "path": "materials/skybox/interstellar.vmat_c",
+          "bytes": 2204,
+          "sha256": "ed017d4390cc1bbb9fc860c90ac297284102ad90ac238263ff6391c705b2703c"
+        },
+        {
+          "path": "materials/skybox/interstellar_cubemap_exr_fdc6d576.vtex_c",
+          "bytes": 8389768,
+          "sha256": "a108aacf1e73ad731e28583c2384e6d8323d32e87851e4988426238b3d7d3a84"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "lynx-moonlit-sea",
+      "name": "Moonlit Sea (LynX)",
+      "material": "materials/skybox/moonlit_sea.vmat",
+      "folder": "skyboxes/lynx-moonlit-sea",
+      "files": [
+        {
+          "path": "materials/skybox/moonlight_cubemap_exr_daba3583.vtex_c",
+          "bytes": 8389752,
+          "sha256": "58d3b9ddf200d7bd0ba5bbc366e73e139c98e92689426bb7ded36e66d8080cf8"
+        },
+        {
+          "path": "materials/skybox/moonlit_sea.vmat_c",
+          "bytes": 2220,
+          "sha256": "f1da48b9a440dcb8ba29302fd6208fe073049a53bcdead72e6b8640b4a213736"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "lynx-desert-night",
+      "name": "Desert Night (LynX)",
+      "material": "materials/skybox/desert_night.vmat",
+      "folder": "skyboxes/lynx-desert-night",
+      "files": [
+        {
+          "path": "materials/skybox/desert_night.vmat_c",
+          "bytes": 2204,
+          "sha256": "772ccabcd7183724bd2ff2dc4e5eda67536798c6fcc07e39fbc745c8a2b8852e"
+        },
+        {
+          "path": "materials/skybox/desert_night_cubemap_exr_7bd94bf3.vtex_c",
+          "bytes": 8389752,
+          "sha256": "d52056d4b68d75cc1903432b4d989941ddf53ce6bc43668a9f61a59a67164d64"
+        }
+      ],
+      "runtime_verified": false
     }
-  ]
+  ],
+  "files_revision": "ce9943b925a4b91f776a898618fe8f367876d730"
 }

@@ -22,5 +22,165 @@
     "simulation_nodes": 7,
     "primary_parent": "spine_3",
     "runtime_verified": false
+  },
+  {
+    "name": "Groza",
+    "resources": 46,
+    "bytes": 24792789,
+    "simulation_nodes": 11,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Klukai",
+    "resources": 40,
+    "bytes": 21977211,
+    "simulation_nodes": 6,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Macqiato",
+    "resources": 40,
+    "bytes": 21795368,
+    "simulation_nodes": 10,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Tololo",
+    "resources": 50,
+    "bytes": 28200816,
+    "simulation_nodes": 13,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Centaureissi",
+    "resources": 45,
+    "bytes": 16277388,
+    "simulation_nodes": 16,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Sabrina",
+    "resources": 45,
+    "bytes": 22639745,
+    "simulation_nodes": 5,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Vector",
+    "resources": 51,
+    "bytes": 30854597,
+    "simulation_nodes": 10,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Leva",
+    "resources": 50,
+    "bytes": 25204106,
+    "simulation_nodes": 9,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Lenna",
+    "resources": 40,
+    "bytes": 23936111,
+    "simulation_nodes": 12,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Jiangyu",
+    "resources": 51,
+    "bytes": 28284500,
+    "simulation_nodes": 9,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Florence",
+    "resources": 56,
+    "bytes": 28752112,
+    "simulation_nodes": 8,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Faye",
+    "resources": 51,
+    "bytes": 24756392,
+    "simulation_nodes": 2,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "HK416",
+    "resources": 16,
+    "bytes": 9528740,
+    "simulation_nodes": 4,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Katja",
+    "resources": 28,
+    "bytes": 5910396,
+    "simulation_nodes": 9,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Artoria Lancer",
+    "resources": 136,
+    "bytes": 35745096,
+    "simulation_nodes": 21,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Alyss",
+    "resources": 58,
+    "bytes": 10210805,
+    "simulation_nodes": 29,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Pulchra",
+    "resources": 34,
+    "bytes": 24008864,
+    "simulation_nodes": 13,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Noel",
+    "resources": 15,
+    "bytes": 5749117,
+    "simulation_nodes": 1,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Lamy",
+    "resources": 15,
+    "bytes": 5421616,
+    "simulation_nodes": 10,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Marine",
+    "resources": 10,
+    "bytes": 4636862,
+    "simulation_nodes": 8,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
   }
 ]
