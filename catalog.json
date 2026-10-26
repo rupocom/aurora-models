@@ -2697,7 +2697,382 @@
         "animation/skeletons/characters/viewmodel.vnmskel_c",
         "animation/skeletons/characters/worldmodel.vnmskel_c"
       ]
+    },
+    {
+      "id": "lynx-nico-ag2",
+      "name": "Nicole (LynX AG2, jiggle physics)",
+      "model": "agents/models/hmn_ag2/zenless_zone_zero/nico/nico.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_png_9dffad3.vtex_c",
+          "bytes": 701180,
+          "sha256": "036914e6f5d693228f1eee0e7b3831fa65c4c4b4a91992aa8bf83027702e23b5"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex.vmat_c",
+          "bytes": 4192,
+          "sha256": "71d8e0417285af2535522e179b547340e54beeee68c0b4abec770b316f3e504e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tmetalness_b99de324.vtex_c",
+          "bytes": 2592,
+          "sha256": "4de081570aaea36e0daf4dc876aef594b62bb840784db494ad897ed3ce9ad107"
+        },
+        {
+          "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/body_tga_ae2dbaab.vtex_c",
+          "bytes": 2798332,
+          "sha256": "3756aaafb6e0f59eb16304e032e01abcf8267b764ab75722b9c1dc1f40aaaa6e"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/face_tga_7b21bcc8.vtex_c",
+          "bytes": 2798332,
+          "sha256": "7df04844642b925f33770a9c909ebf671d4d9dc8413879ffd6bf1d604e0338a2"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/hair_tga_4c7bf262.vtex_c",
+          "bytes": 2798332,
+          "sha256": "f03034898e684e0011dc3915132efababdd959fbc61e6bcb2097b318a15774c0"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_body_cs2.vmat_c",
+          "bytes": 4953,
+          "sha256": "7c765d75385dbdcc008f3bd3e7fb4042590b6c4e867945d540147678a19deb0d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_body_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_body_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_body_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_body_cs2_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_face_cs2.vmat_c",
+          "bytes": 4953,
+          "sha256": "8fb2f8f2083c4a02a0c019ad254c8e99b9f83139fb63a6954bfd12c5ee4cc537"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_face_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_face_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_face_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_face_cs2_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_hair_cs2.vmat_c",
+          "bytes": 4953,
+          "sha256": "26feabd151f17e5bf8a8dd5a672a7a42deab4d30b5721573f65ec49444510dc9"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_hair_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_hair_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_hair_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_hair_cs2_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_skin_cs2.vmat_c",
+          "bytes": 4953,
+          "sha256": "bc232e78b5971623bd0419b5eb71bd82653310f0040b772246a04582fdf4cfc2"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_skin_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_skin_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_skin_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/nico_skin_cs2_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/materials/skin_tga_bef4511d.vtex_c",
+          "bytes": 2798332,
+          "sha256": "82f6a0c08414c42252f868b6bc0f3b09e696c201155e97aefeab3501d3cde873"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/nico.vmdl_c",
+          "bytes": 1243553,
+          "sha256": "d2279913f17ec1ac7f387f38ded0fda1deb650ab2a067fe6ccbb3c43626f629b"
+        },
+        {
+          "path": "agents/models/hmn_ag2/zenless_zone_zero/nico/nico_sk2model/body_vmorf.vtex_c",
+          "bytes": 23400,
+          "sha256": "92edf1c75ef41b8785ff362ef2bd5eac266d4a28a55333224081b9f16e0d4162"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ],
+      "simulation": {
+        "nodes": 17,
+        "controls": [
+          "hair_001",
+          "hair_l_001",
+          "hair_l_002",
+          "hair_r_001",
+          "hair_r_002",
+          "hair_l_003",
+          "hair_l_004",
+          "hair_l_005",
+          "hair_r_003",
+          "hair_r_004",
+          "hair_r_005",
+          "jiggle_primary",
+          "bomp",
+          "belt_001",
+          "belt_002",
+          "belt_003",
+          "belt_004"
+        ],
+        "primary_parent": "spine_3",
+        "chest_motion_verified": false
+      }
+    },
+    {
+      "id": "lynx-lila-decyrus-ag2",
+      "name": "Lila Decyrus (LynX AG2, jiggle physics)",
+      "model": "agents/models/hmn_ag2/atelier_ryza/lila_decyrus/lila_decyrus.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/atelier_ryza/lila_decyrus/lila_decyrus.vmdl_c",
+          "bytes": 879638,
+          "sha256": "e4d1541e2f9d8107808840efaa8f297f88372be8c20f3c12e419aa438671c4d7"
+        },
+        {
+          "path": "agents/models/hmn_ag2/atelier_ryza/lila_decyrus/lila_decyrus_sk2model/body_vmorf.vtex_c",
+          "bytes": 12900,
+          "sha256": "9973fe1092e8356cfdac7310798be91c1534ceb27b936d6c98f7b640f7261013"
+        },
+        {
+          "path": "agents/models/hmn_ag2/atelier_ryza/lila_decyrus/materials/lila_decyrus.vmat_c",
+          "bytes": 4905,
+          "sha256": "517f22ce681317a208b637f1f4add116daef4d95aa9209dfa985ed49b2a40cd8"
+        },
+        {
+          "path": "agents/models/hmn_ag2/atelier_ryza/lila_decyrus/materials/lila_decyrus_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/atelier_ryza/lila_decyrus/materials/lila_decyrus_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/atelier_ryza/lila_decyrus/materials/lila_decyrus_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/atelier_ryza/lila_decyrus/materials/lila_decyrus_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/atelier_ryza/lila_decyrus/materials/lila_png_62e624d4.vtex_c",
+          "bytes": 2798332,
+          "sha256": "105d29aed83f264b2e067a6dfa91d47c6e084fd8ca1f1b93131588a0544fcae3"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ],
+      "simulation": {
+        "nodes": 17,
+        "controls": [
+          "hair_l_001",
+          "hair_l_002",
+          "hair_l_003",
+          "hair_l_004",
+          "hair_l_005",
+          "hair_l_006",
+          "hair_r_001",
+          "hair_r_002",
+          "hair_r_003",
+          "hair_r_004",
+          "hair_r_005",
+          "hair_r_006",
+          "hair_001",
+          "hair_002",
+          "hair_003",
+          "hair_004",
+          "jiggle_primary"
+        ],
+        "primary_parent": "spine_3",
+        "chest_motion_verified": false
+      }
+    },
+    {
+      "id": "lynx-rapi-ag2",
+      "name": "Rapi (LynX AG2, jiggle physics)",
+      "model": "agents/models/hmn_ag2/nikke/rapi/rapi.vmdl",
+      "files": [
+        {
+          "path": "agents/models/hmn_ag2/nikke/rapi/materials/nikke_rapi_texture_png_eca8ca4a.vtex_c",
+          "bytes": 2798472,
+          "sha256": "43e7b5d4b868bd728b8efe53f36f58f932a12943e0104f3748e6d7bde3a4f6fa"
+        },
+        {
+          "path": "agents/models/hmn_ag2/nikke/rapi/materials/rapi_cs2.vmat_c",
+          "bytes": 4873,
+          "sha256": "c4fb2d0325d16ea7732b0998caab1de2c07f662ae694abfd91a8a8262edc2122"
+        },
+        {
+          "path": "agents/models/hmn_ag2/nikke/rapi/materials/rapi_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+          "bytes": 2024,
+          "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+        },
+        {
+          "path": "agents/models/hmn_ag2/nikke/rapi/materials/rapi_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+          "bytes": 1880,
+          "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/nikke/rapi/materials/rapi_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+          "bytes": 2592,
+          "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+        },
+        {
+          "path": "agents/models/hmn_ag2/nikke/rapi/materials/rapi_cs2_vmat_g_tnormal_aed807f.vtex_c",
+          "bytes": 2320,
+          "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+        },
+        {
+          "path": "agents/models/hmn_ag2/nikke/rapi/rapi.vmdl_c",
+          "bytes": 1790355,
+          "sha256": "b40861b770392cf76b55b379193f933280664a49404c81b227acb699bec6dfc1"
+        },
+        {
+          "path": "agents/models/hmn_ag2/nikke/rapi/rapi_sk2model/body_vmorf.vtex_c",
+          "bytes": 42084,
+          "sha256": "9915067991512f4f48103a198f510c16cbbe071e81d2c3da12b9bd71556d02c1"
+        },
+        {
+          "path": "materials/default/default_mask_tga_6201fa36.vtex_c",
+          "bytes": 2264,
+          "sha256": "8df0af49f861e727e7d7e2ce0a17425a012cb53213bae1d0a25834ab6101be86"
+        },
+        {
+          "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+          "bytes": 2248,
+          "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+        }
+      ],
+      "runtime_verified": false,
+      "source": "LynX Custom Models [AG2]",
+      "stock_dependencies": [
+        "animation/graphs/ui/uimodel.vnmgraph_c",
+        "animation/graphs/viewmodel/viewmodel.vnmgraph_c",
+        "animation/graphs/worldmodel/worldmodel.vnmgraph_c",
+        "animation/skeletons/characters/viewmodel.vnmskel_c",
+        "animation/skeletons/characters/worldmodel.vnmskel_c"
+      ],
+      "simulation": {
+        "nodes": 7,
+        "controls": [
+          "hair_001",
+          "hair_002",
+          "hair_003",
+          "jiggle_primary",
+          "belt_001",
+          "belt_002",
+          "belt_003"
+        ],
+        "primary_parent": "spine_3",
+        "chest_motion_verified": false
+      }
     }
   ],
-  "files_revision": "802af21e43b727bc786bb3d5f5b80b2a0039e9f4"
+  "files_revision": "c9ff5f6bfd17af6247cbd2199acc467a4f44849b"
 }

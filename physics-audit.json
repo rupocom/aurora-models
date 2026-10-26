@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Nicole",
+    "resources": 33,
+    "bytes": 13232177,
+    "simulation_nodes": 17,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Lila Decyrus",
+    "resources": 10,
+    "bytes": 3709103,
+    "simulation_nodes": 17,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  },
+  {
+    "name": "Rapi",
+    "resources": 10,
+    "bytes": 4649112,
+    "simulation_nodes": 7,
+    "primary_parent": "spine_3",
+    "runtime_verified": false
+  }
+]

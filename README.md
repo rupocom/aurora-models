@@ -26,3 +26,9 @@ The [skybox catalog](skyboxes/catalog.json) additionally lists Wallhaven, Window
 ## LynX AG2 additions
 
 Ten player models: Hel, Kuramitsuha, Skadi, Pathfinder, Exusiai, Lappland, Chen Qianyu, Endministrator, Laevatain and Perlica. Each entry includes its full custom resource dependency closure with SHA-256 checksums; stock animation graphs and skeletons are supplied by CS2. All extracted resource CRCs were checked against the supplied archive. Appearance, hitboxes and cloth behavior remain unverified in game. Original artwork remains owned by its creators.
+
+## Authored jiggle simulation candidates
+
+Nicole, Lila Decyrus and Rapi from the supplied LynX AG2 archive are available through the online library. They contain 17, 17 and 7 simulation nodes respectively, including a `jiggle_primary` bone parented to `spine_3`. The original simulation and mesh data are preserved. This is evidence of authored upper-body jiggle support; visible chest motion has not been verified in Aurora. See `physics-audit.json` for the asset audit.
+
+Every custom dependency was checked against the supplied archive CRC and is listed with its byte size and SHA-256 checksum. Stock AG2 animation graphs and skeletons are supplied by the game. The older AG1 Adult Neptune and Nicole resources were excluded because their animation graph dependency is absent from the current game index. The published Nicole entry uses the separate AG2 resource in `agents/models/hmn_ag2/zenless_zone_zero/nico`.
